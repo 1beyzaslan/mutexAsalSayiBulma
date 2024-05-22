@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mutexAsalSayiBulma", "mutexAsalSayiBulma\mutexAsalSayiBulma.csproj", "{2541987B-0C3A-4D69-AF38-9903E7942CB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2541987B-0C3A-4D69-AF38-9903E7942CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2541987B-0C3A-4D69-AF38-9903E7942CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2541987B-0C3A-4D69-AF38-9903E7942CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2541987B-0C3A-4D69-AF38-9903E7942CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60E5E5B5-C22C-4C59-BF6C-C2E3A5A236A0}
+	EndGlobalSection
+EndGlobal
